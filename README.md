@@ -1,8 +1,8 @@
 # 💫 About Me:
-🗺️ I'm based in Monza, Italy
-🔭 I'm planning to move to Valencia, Spain
-⚡ I’m currently working as a Full Stack Developer for Naar Tour Operator
-🌱 I’m currently learning React and Unreal Engine 5
+🗺️ I'm based in Monza, Italy<br>
+🔭 I'm planning to move to Valencia, Spain<br>
+⚡ I’m currently working as a Full Stack Developer for Naar Tour Operator<br>
+🌱 I’m currently learning React and Unreal Engine 5<br>
 
 
 ## 🌐 Socials:
