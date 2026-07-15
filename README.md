@@ -2,7 +2,7 @@
 🗺️ I'm based in Monza, Italy<br>
 🔭 I'm planning to move to Valencia, Spain<br>
 ✨ I'm currently developing the [GandoGames](https://www.gandogames.org/) website<br>
-🖥️ I'm also building my self-hosting platform with a media manager
+🖥️ I'm also building my self-hosting platform with a media manager<br>
 ⚡ I’m a Full Stack Developer for Naar Tour Operator<br>
 🌱 I’m learning React and Unreal Engine 5<br>
 
